@@ -1,6 +1,5 @@
 Hi, I’m Roxanne 👋
 - Interested in **Smart cities, urban planning, reinforcement learning, deep learning.**
-- Open to research collaborations in topics above.
 
 ## 🎓 Education
 ### University of Economics Hociminh City, Vietnam
