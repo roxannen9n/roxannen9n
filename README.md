@@ -20,4 +20,4 @@ A comparative study of statistical, temporal, spatial, and spatio-temporal model
 
 - **Method:** ARIMA, LSTM, GCN, and GCN-LSTM
 - **Application:** Urban EV charging demand forecasting and charging infrastructure planning
-- **Objective:** Compare different forecasting approaches and evaluate the contribution of temporal and spatial dependencie
+- **Objective:** Compare different forecasting approaches and evaluate the contribution of temporal and spatial dependencie 
