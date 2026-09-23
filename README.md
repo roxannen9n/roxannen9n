@@ -1,6 +1,6 @@
 Hi, I'm Roxanne, interested in **Smart cities, urban planning, optimal control/optimization.**
 
-📄 **[Curriculum Vitae](./Resume.pdf)**
+📄 View my Resume here: **[Curriculum Vitae](./Resume.pdf)**
 
 ## Education
 ### University of Economics Hociminh City, Vietnam
