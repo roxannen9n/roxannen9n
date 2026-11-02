@@ -1,4 +1,4 @@
-Hi, I'm Roxanne, interested in **Smart cities, urban planning, optimal control/optimization.**
+Hi, I'm Roxanne, interested in **Smart cities, Urban planning, Optimal control/Optimization, Operations research**
 
 📄 View my Resume here: **[Curriculum Vitae](./Resume.pdf)**
 
