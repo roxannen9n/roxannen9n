@@ -1,6 +1,6 @@
 Hi, I'm Roxanne, interested in **Smart cities, Urban planning, Optimal control/Optimization, Operations research**
 
-📄 View my Resume here: **[Curriculum Vitae](./Thao Nguyen - Resume.pdf)**
+📄 View my Resume here: **[Curriculum vitae](https://roxannen9n.github.io/assets/Thao%20Nguyen%20-%20Resume.pdf)**
 
 ## Education
 ### University of Economics Hociminh City, Vietnam
